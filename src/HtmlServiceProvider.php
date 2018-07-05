@@ -1,6 +1,6 @@
 <?php
 
-namespace Collective\Html;
+namespace Tshafer\Html;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;

@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Contracts\View\Factory;
-use Collective\Html\HtmlBuilder;
+use TShafer\Html\HtmlBuilder;
 use Illuminate\Http\Request;
 use Illuminate\Routing\RouteCollection;
 use Illuminate\Routing\UrlGenerator;
